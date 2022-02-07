@@ -252,7 +252,7 @@ h2 {
 
 .footer {
     height: 11.1111vh;
-    padding: 4.7778vh;
+    padding: 4.7778vh 0;
     background-color: #211138;
     text-align: center;
 }
@@ -263,7 +263,7 @@ h2 {
         text-transform: uppercase;
         letter-spacing: .15vw;
     }
-    .footer__band-name,
+    .footer__brand-name,
     .footer__student-name {
         color: #6200ea;
     }
